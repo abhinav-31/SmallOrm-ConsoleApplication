@@ -1,0 +1,11 @@
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Attribute\bin\Debug\net6.0\Attribute.deps.json
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Attribute\bin\Debug\net6.0\Attribute.dll
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Attribute\bin\Debug\net6.0\Attribute.pdb
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Attribute\obj\Debug\net6.0\Attribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Attribute\obj\Debug\net6.0\Attribute.AssemblyInfoInputs.cache
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Attribute\obj\Debug\net6.0\Attribute.AssemblyInfo.cs
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Attribute\obj\Debug\net6.0\Attribute.csproj.CoreCompileInputs.cache
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Attribute\obj\Debug\net6.0\Attribute.dll
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Attribute\obj\Debug\net6.0\refint\Attribute.dll
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Attribute\obj\Debug\net6.0\Attribute.pdb
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Attribute\obj\Debug\net6.0\ref\Attribute.dll

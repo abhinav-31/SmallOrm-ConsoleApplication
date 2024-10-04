@@ -1,0 +1,15 @@
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\bin\Debug\net6.0\POCO.deps.json
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\bin\Debug\net6.0\POCO.dll
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\bin\Debug\net6.0\POCO.pdb
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\bin\Debug\net6.0\Attribute.dll
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\bin\Debug\net6.0\Attribute.pdb
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\obj\Debug\net6.0\POCO.csproj.AssemblyReference.cache
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\obj\Debug\net6.0\POCO.GeneratedMSBuildEditorConfig.editorconfig
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\obj\Debug\net6.0\POCO.AssemblyInfoInputs.cache
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\obj\Debug\net6.0\POCO.AssemblyInfo.cs
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\obj\Debug\net6.0\POCO.csproj.CoreCompileInputs.cache
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\obj\Debug\net6.0\POCO.csproj.Up2Date
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\obj\Debug\net6.0\POCO.dll
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\obj\Debug\net6.0\refint\POCO.dll
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\obj\Debug\net6.0\POCO.pdb
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\POCO\obj\Debug\net6.0\ref\POCO.dll

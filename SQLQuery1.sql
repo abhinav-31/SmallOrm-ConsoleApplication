@@ -1,0 +1,2 @@
+﻿CREATE TABLE Account(accNumber INT PRIMARY KEY    ,name VARCHAR(100)     ,email VARCHAR(100)     ,phone VARCHAR(100)     ,balance FLOAT     ,userid INT FOREIGN KEY REFERENCES  users (userid) ON DELETE CASCADE);
+CREATE TABLE users(userid INT PRIMARY KEY IDENTITY(1,1)   ,email VARCHAR(100)     ,password VARCHAR(100))

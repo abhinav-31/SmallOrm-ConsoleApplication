@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SmallORMApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

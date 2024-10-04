@@ -1,0 +1,12 @@
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Utils\bin\Debug\net6.0\Utils.deps.json
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Utils\bin\Debug\net6.0\Utils.dll
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Utils\bin\Debug\net6.0\Utils.pdb
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Utils\obj\Debug\net6.0\Utils.csproj.AssemblyReference.cache
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Utils\obj\Debug\net6.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Utils\obj\Debug\net6.0\Utils.AssemblyInfoInputs.cache
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Utils\obj\Debug\net6.0\Utils.AssemblyInfo.cs
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Utils\obj\Debug\net6.0\Utils.csproj.CoreCompileInputs.cache
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Utils\obj\Debug\net6.0\Utils.dll
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Utils\obj\Debug\net6.0\refint\Utils.dll
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Utils\obj\Debug\net6.0\Utils.pdb
+C:\PGDAC24\.net\New folder (2)\SmallORMTool\Utils\obj\Debug\net6.0\ref\Utils.dll
